@@ -5,6 +5,6 @@ export default defineConfig({
   plugins: [react()],
   css: {
     postcss: './postcss.config.js',
-    base: "/Nexaura-Solutions",
+    base: '/Nexaura-Solutions/',
   },
 })
